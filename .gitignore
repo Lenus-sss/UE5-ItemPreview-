@@ -1,0 +1,25 @@
+# Unreal build output
+Binaries/
+Intermediate/
+Saved/
+
+# IDE and generated project files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Build artifacts and debug symbols
+*.dll
+*.exe
+*.lib
+*.exp
+*.obj
+*.pdb
+*.ilk
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
